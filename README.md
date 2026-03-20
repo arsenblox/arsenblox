@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/LStU8mGd63kAAAAd/blue-archive-sorasaki-hina.gif"  />
+<img align="right" height="1000" width="1080" src="https://media1.tenor.com/m/LStU8mGd63kAAAAd/blue-archive-sorasaki-hina.gif"  />
 
 ###
 
