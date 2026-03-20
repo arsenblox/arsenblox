@@ -30,8 +30,8 @@
   <a href="https://discord.com/users/812717395101351987">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="[https://www.tiktok.com/@mikael_agata_sitepu?_r=1&_t=ZS-93EQlMfpRZf](https://www.tiktok.com/@arsen_animation)">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.tiktok.com/@arsen_animation">
+    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=05152f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"  />
   </a>
 </div>
 
