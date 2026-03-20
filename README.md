@@ -1,7 +1,7 @@
 <h2 align="left">Hi There👋! My name is Arsen and I'm a Programmer/Animators, from Indonesia</h2>
 
 
-<img align="right" height="500" width="500" src="[https://media1.tenor.com/m/LStU8mGd63kAAAAd/blue-archive-sorasaki-hina.gif](https://media1.tenor.com/m/8yDzf4Gc580AAAAC/hina-hina-blue-archive.gif)"  />
+<img align="right" height="500" width="500" src="https://media1.tenor.com/m/8yDzf4Gc580AAAAC/hina-hina-blue-archive.gif"  />
 
 ###
 
